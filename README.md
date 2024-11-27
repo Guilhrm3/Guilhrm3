@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning java and WEB programming;
 - 📫 How to reach me: by e-mail guilhrmsar@gmail.com;
 - ⚡ Fun fact: Python is better than java;
-
+- 👾 Known Languages: Python,Java,HTML,C++, and learning JavaScript;
